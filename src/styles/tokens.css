@@ -1,0 +1,25 @@
+:root {
+  --color-eggshell: #fdfcfc;
+  --color-powder: #f5f3f1;
+  --color-chalk: #e5e5e5;
+  --color-fog: #b1b0b0;
+  --color-gravel: #777169;
+  --color-slate: #a59f97;
+  --color-obsidian: #000000;
+  --color-signal-blue: #0447ff;
+  --color-ember: #ff4704;
+  --font-display: "Cormorant Garamond", "Libre Baskerville", Georgia, serif;
+  --font-ui: "Inter", "Aptos", "Segoe UI", sans-serif;
+  --font-mono: "Geist Mono", "JetBrains Mono", Consolas, monospace;
+  --text-caption: 10px;
+  --text-body: 14px;
+  --text-body-lg: 16px;
+  --text-heading: 32px;
+  --text-display: 48px;
+  --radius-sm: 4px;
+  --radius-card: 16px;
+  --radius-panel: 20px;
+  --radius-pill: 9999px;
+  --shadow-hairline: rgba(0, 0, 0, 0.4) 0 0 1px 0, rgba(0, 0, 0, 0.04) 0 2px 4px 0;
+  --shadow-inset: rgba(0, 0, 0, 0.075) 0 0 0 0.5px inset;
+}

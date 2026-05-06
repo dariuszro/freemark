@@ -1,0 +1,36 @@
+@media print {
+  body {
+    background: #fff;
+  }
+
+  .topbar,
+  .outline-panel,
+  .workbench-toolbar,
+  .editor-pane,
+  .status-bar {
+    display: none !important;
+  }
+
+  .app-shell,
+  .workspace,
+  .workbench,
+  .editor-grid {
+    display: block;
+    min-height: auto;
+    padding: 0;
+    border: 0;
+    box-shadow: none;
+  }
+
+  .preview-pane {
+    display: block !important;
+    overflow: visible;
+    padding: 0;
+    background: #fff;
+  }
+
+  .markdown-body {
+    width: 100%;
+    color: #000;
+  }
+}
